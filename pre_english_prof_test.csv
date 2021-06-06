@@ -1,0 +1,59 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q33,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,Q13,Q14,Q15,Q16,Q17,Q18,Q19,Q20,Q21,Q22,Q23,Q24,Q25,Q26,Q27,Q28,Q29,Q30,SC0
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Τεστ Γλωσσικής Επάρκειας (Αγγλικά) 
+
+Language Proficiency Test (EN)
+
+Pre-Course - Πριν το Μάθημα
+
+Αυτό είναι ένα γρήγορο τεστ για να ελέγξετε το επίπεδο γνώσεων σας στη γλώσσα-στόχο. Το τεστ θα χρησιμοποιηθεί ως σημείο αναφοράς για την αξιολόγηση της απόδοσής σας βάσει του γλωσσικού μαθήματος στο οποίο θα συμμετέχετε.
+
+ 
+
+Συμπληρώστε αυτό το τεστ με βάση τις δικές σας γνώσεις, χωρίς να χρησιμοποιήσετε καμία βοήθεια, καθώς είναι σημαντικό να ελέγξετε το πραγματικό επίπεδο που έχετε στη γλώσσα-στόχο. Δεν είναι αξιολόγηση, το σκορ σας θα παραμείνει εμπιστευτικό και δεν θα σας επηρεάσει με κανένα τρόπο.
+
+ 
+
+Σας ευχαριστούμε που αφιερώσατε χρόνο για να το συμπληρώσετε!
+
+ 
+
+Αν έχετε απορίες, επικοινωνήστε με: aot2@illinois.edu
+
+--------------------------------------------------------------------------
+
+
+ 
+
+This is a quick test to check your knowledge level in the target language. This test will be used as a benchmark to evaluate your performance based on the language course you will participate in.
+
+ 
+
+Please complete this based on your own knowledge, without using any help, as it is important to check your actual level in the target language. It is not an assessment, your score will be kept confidential and it won't impact you in anyway.
+
+ 
+
+Thank you for taking the time to complete this!
+
+ 
+
+If you have any questions, please reach out to aot2@illinois.edu
+
+--------------------------------------------------------------------------------------
+
+ 
+
+Παρακαλώ συμπληρώστε την διεύθυνση του ηλεκτρονικού σας ταχυδρομείου (email) παρακάτω:
+
+Please enter your Email Address below:",- Where do you live?     - I live ......... New York.,- ....................... is the weather now in Chicago?     - It is hot and sunny.,- ......................................?    - I would like a coffee and a croissant.,"- Does your country have a stable economy? - No, it is .............. and we have high unemployment.","- Jason, how .............. to Hawaii? - I flew there from Seattle.",In the area where Matt lives there are a lot of .......................... where he usually goes for a walk.,When my cousin finishes her work she often.......................... with her friends.,Times Square ...................... in the city center.,"Currently, the people in this city .......................... in a hurry.",We will arrive ..... Berlin Airport at 14:30.,Tomorrow .................. a few things from the market.,"In this city, there are .................... buildings.",What,The children go to school ..... our building,Katie is a teacher and she ....................... in a school.,"Chicago, New York and Los Angeles are three big ..................... in the United States.",I like traveling by train because it is................... .,Paul and Anna have a daughter.  ................ daughter lives in Boulder.,Ryan and Mary ....................... in Miami last month.,The dog is lying ..... the door,Yesterday Bill  ........................ the electricity bill.,"In my village, there is ........................ , a bakery and a coffee place.",The kids ................ French at school.,Why...,"On Saturday, Julia ........................ a museum and she took a lot of photos.","He speaks Japanese, but ............................ German","Yesterday, Kate ................. late for work, because she woke up late.","Last Saturday, my brother and I ....................... because we were tired.","...... my house, there's a bank",Robert lives ..... the same street as Emma,Score
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID33_TEXT""}","{""ImportId"":""QID1""}","{""ImportId"":""QID2""}","{""ImportId"":""QID3""}","{""ImportId"":""QID4""}","{""ImportId"":""QID5""}","{""ImportId"":""QID6""}","{""ImportId"":""QID7""}","{""ImportId"":""QID8""}","{""ImportId"":""QID9""}","{""ImportId"":""QID10""}","{""ImportId"":""QID11""}","{""ImportId"":""QID12""}","{""ImportId"":""QID13""}","{""ImportId"":""QID14""}","{""ImportId"":""QID15""}","{""ImportId"":""QID16""}","{""ImportId"":""QID17""}","{""ImportId"":""QID18""}","{""ImportId"":""QID19""}","{""ImportId"":""QID20""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22""}","{""ImportId"":""QID23""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25""}","{""ImportId"":""QID26""}","{""ImportId"":""QID27""}","{""ImportId"":""QID28""}","{""ImportId"":""QID29""}","{""ImportId"":""QID30""}","{""ImportId"":""SC_b4xv0IlnfFooHD8""}"
+2021-03-18 15:24:05,2021-03-18 15:30:03,IP Address,85.75.169.225,100,358,True,2021-03-18 15:30:04,R_2aK37WiXliUIvHF,,,,,38.2444000244140625,21.734405517578125,anonymous,EN,artem.karra@gmail.com,in,How,What would you like to drink and eat,problematic,did you go,parks,goes for a coffee,is located,are,at,I will buy,tall,are you looking at me?,in,works,cities,comfortable,Their,were,on,paid,a pharmacy,learn,are you looking at me?,visited,he doesn't speak,was,did not go out,Beside,at,27
+2021-03-18 15:56:38,2021-03-18 16:04:59,IP Address,188.4.233.181,100,501,True,2021-03-18 16:05:00,R_3LXNxQrAZs79kPS,,,,,37.9842071533203125,23.7353057861328125,anonymous,EN,up1061695@upnet.gr,in,How,What would you like to drink and eat,problematic,did you go,parks,goes for a coffee,is located,are,at,I will buy,tall,is the matter?,down,works,cities,comfortable,Their,were,beside,paid,a pharmacy,learn,are you looking at me?,visited,he doesn't speak,was,did not go out,Beside,at,28
+2021-03-18 16:19:09,2021-03-18 16:24:40,IP Address,141.237.157.227,100,331,True,2021-03-18 16:24:41,R_3EL0VGm2UDcZMC5,,,,,38.2444000244140625,21.734405517578125,anonymous,EN,elenapetropoulou6@gmail.com,in,How,What would you like to drink and eat,costless,have you gone,parks,goes for a coffee,is located,were,at,I will buy,amusing,is the matter?,in,works,cities,comfortable,Their,have been,on,paid,a pharmacy,learn,are you looking at me?,visited,he doesn't speak,was,haven't gone out,Beside,at,22
+2021-03-19 04:27:53,2021-03-19 05:10:02,IP Address,130.43.56.117,100,2529,True,2021-03-19 05:10:03,R_8wPUvBLJxH1xgjL,,,,,37.9842071533203125,23.7353057861328125,anonymous,EN,up1071781@upnet.gr,in,How,What would you like to drink and eat,problematic,did you go,parks,goes for a coffee,offers,have been,of,I will buy,tall,is the matter?,in,works,cities,comfortable,Their,have been,on,paid,a population,learn,are you looking at me?,visited,he doesn't speak,was,haven't gone out,At,of,21
+2021-03-19 05:07:32,2021-03-19 05:13:37,IP Address,94.64.98.107,100,365,True,2021-03-19 05:13:38,R_SI4OHCFj6bhdDeF,,,,,38.2444000244140625,21.734405517578125,anonymous,EN,up1061716@upatras.gr,in,How,What would you like to drink and eat,problematic,did you go,parks,goes for a coffee,is located,were,at,I will buy,tall,is the matter?,between,works,cities,comfortable,Their,have gone,on,paid,a pharmacy,learn,are you looking at me?,visited,he doesn't speak,was,did not go out,Beside,on,26
+2021-03-19 05:52:01,2021-03-19 05:58:40,IP Address,91.140.89.196,100,399,True,2021-03-19 05:58:41,R_YVRrOgm8vHRYQV3,,,,,37.9842071533203125,23.7353057861328125,anonymous,EN,skarnaspiri@gmail.com,in,How,What would you like to drink and eat,problematic,did you go,parks,goes for a coffee,is located,are,at,I will buy,tall,are you looking at me?,in,works,cities,comfortable,Their,was,on,paid,a pharmacy,drive,are you looking at me?,visited,he doesn't speak,was,did not go out,At,on,25
+2021-03-19 06:00:48,2021-03-19 06:11:02,IP Address,46.177.234.74,100,613,True,2021-03-19 06:11:02,R_2D8gL8Fg1BWDizL,,,,,37.9842071533203125,23.7353057861328125,anonymous,EN,piperoumariaeleni@gmail.com,in,Why,What would you like to drink and eat,problematic,did you go,airports,run errands,offers,are,around,I will buy,tall,are you looking at me?,in,works,cities,comfortable,Their,have been,beside,will have paid,a pharmacy,learn,languages do you speak?,visited,he doesn't speak,was,did not go out,Beside,at,20
+2021-03-20 04:31:03,2021-03-20 04:35:33,IP Address,62.103.222.80,100,270,True,2021-03-20 04:35:34,R_8GoNsNIbBmCRwSB,,,,,37.9842071533203125,23.7353057861328125,anonymous,EN,ellenkokkini@gmail.com,in,How,What would you like to drink and eat,problematic,did you go,parks,goes for a coffee,is located,are,at,I will buy,amusing,is the matter?,in,works,cities,comfortable,Their,were,beside,paid,a pharmacy,learn,are you looking at me?,visited,he doesn't speak,was,did not go out,Beside,on,29
+2021-03-21 07:17:53,2021-03-21 07:30:30,IP Address,176.58.227.43,100,756,True,2021-03-21 07:30:30,R_1rlCxpyT83ZiGbT,,,,,38.2444000244140625,21.734405517578125,anonymous,EN,eleftheria0701@gmail.com,in,How,What would you like to drink and eat,costless,did you go,parks,goes for a coffee,exists,are,at,I will buy,tall,is the matter?,between,works,cities,tiring,Their,have gone,over,paid,a pharmacy,learn,are you looking at me?,visited,he doesn't speak,was,did not go out,Beside,on,24
+2021-03-21 09:52:41,2021-03-21 09:59:20,IP Address,109.178.226.132,100,399,True,2021-03-21 09:59:20,R_cSk5aPlJFswfcqJ,,,,,37.9842071533203125,23.7353057861328125,anonymous,EN,katerina_bakou@hotmail.com,in,How,What would you like to drink and eat,problematic,did you go,parks,goes for a coffee,is located,are,at,I will buy,tall,is the matter?,between,works,cities,comfortable,Their,were,beside,paid,a pharmacy,learn,are you looking at me?,visited,he doesn't speak,was,did not go out,Beside,at,28
+2021-03-21 15:31:11,2021-03-21 16:14:55,IP Address,94.66.59.135,100,2624,True,2021-03-21 16:14:56,R_1FhNIpIcVKIsBZe,,,,,37.9842071533203125,23.7353057861328125,anonymous,EN,maikomesxi1@yahoo.com,in,How,What would you like to drink and eat,problematic,did you go,parks,goes for a coffee,is located,are,at,I will buy,tall,is the matter?,between,works,cities,comfortable,Their,were,over,paid,a pharmacy,learn,are you looking at me?,visited,he doesn't speak,was,did not go out,Beside,on,28
