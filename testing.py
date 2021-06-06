@@ -10,15 +10,15 @@ american_emails = ["mek9@illinois.edu", "vb8@illinois.edu", "cschwa33@illinois.e
                    "christinaphilippou15@gmail.com", "heleng4@illinois.edu", "hamblin2@illinois.edu"]
 
 # graphs every question in survey
-df = pd.read_csv("pre_survey.csv")
-grapher = SurveyGraphing(df,
+survey_data_df = pd.read_csv("post_survey.csv")
+grapher = SurveyGraphing(survey_data_df,
                          greek_emails,
                          american_emails,
                          email_question_number="Q64",
-                         is_post_course=False)
-# grapher.graph_everything()
+                         is_post_course=False)  # TODO: change this to True if graphing post_course
+grapher.graph_surveys()
 
-# graphs scatter plot of reported proficiency vs tested proficiency
+# graphs scatter plot of reported proficiency vs tested proficiency (English)
 english_prof_test_df = pd.read_csv("pre_english_prof_test.csv")
 title = "Greek Students English Proficiency"
 grapher.graph_proficiencies(english_prof_test_df,
@@ -28,6 +28,7 @@ grapher.graph_proficiencies(english_prof_test_df,
                             prof_email_question="Q33",
                             title=title)
 
+# graphs scatter plot of reported proficiency vs tested proficiency (Greek)
 greek_prof_test_df = pd.read_csv("pre_greek_prof_test.csv")
 title = "American Students Greek Proficiency"
 grapher.graph_proficiencies(greek_prof_test_df,

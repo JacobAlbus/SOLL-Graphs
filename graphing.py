@@ -66,13 +66,15 @@ class SurveyGraphing:
         else:
             return title
 
-    def graph_everything(self):
+    def graph_surveys(self):
         for feature in self.qualitative_multi:
             self.graph_multi_choice(feature)
         for feature in self.qualitative_single:
             self.graph_single_choice(feature)
 
-    # functions for graphing single answer questions onto pie charts
+    """
+    functions for graphing single answer questions onto pie charts
+    """
     def graph_single_choice(self, feature):
         print(feature)
         title = self.survey_df[feature].iloc[0]
@@ -199,7 +201,9 @@ class SurveyGraphing:
             return '{v:d}'.format(v=val)
         return my_format
 
-    # functions for graphing multiple answer questions onto bar graphs
+    """
+    functions for graphing multiple answer questions onto bar graphs
+    """
     def graph_multi_choice(self, feature):
         print(feature)
         title = self.survey_df[feature].iloc[0]
@@ -250,7 +254,9 @@ class SurveyGraphing:
 
         return unique_answers, answer_count
 
-    # functions for graphing proficiency scatter plots
+    """
+    functions for graphing proficiency scatter plots
+    """
     def graph_proficiencies(self, prof_test_df, email_list, survey_report_target_language_question,
                             survey_email_question, prof_email_question, title):
         reported_proficiency = []
@@ -294,7 +300,9 @@ class SurveyGraphing:
         plt.savefig("graphs/" + title + ".png")
         plt.clf()
 
-    # Functions for plotting simple binary bar graphs
+    """
+    Functions for plotting simple binary bar graphs
+    """
     def graph_avg_unique_languages(self):
         # counts total number of languages taken by each group
         greek_avg_lang_count = self.calculate_avg_unique_languages(self.greek_indexes, "Q7", "Q7_10_TEXT")
